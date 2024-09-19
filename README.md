@@ -1,6 +1,6 @@
 # Food Recipe App
 
-A responsive web application built using Next.js that provides users with a 30 unique food recipes.
+A responsive web application built using Next.js that provides users with 30 unique food recipes.
 
 ## Tools & Technologies
 - **Next.js**: For server-side rendering and frontend.
